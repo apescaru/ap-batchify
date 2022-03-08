@@ -1,0 +1,26 @@
+{
+  "name": "ap-batchify",
+  "version": "1.0.0",
+  "description": "Easy way to separate an array into batches",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apescaru/ap-batchify.git"
+  },
+  "keywords": [
+    "batch",
+    "array",
+    "javascript",
+    "node"
+  ],
+  "author": "Andrei Alexandru Pescaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apescaru/ap-batchify/issues"
+  },
+  "homepage": "https://github.com/apescaru/ap-batchify#readme"
+}
